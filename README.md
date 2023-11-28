@@ -11,6 +11,10 @@
 
 We are focusing on evaluation and analysis of GPT4-V(ision).
 
+**A Comprehensive Evaluation of GPT-4V on Knowledge-Intensive Visual Question Answering.**<br>
+*Yunxin Li, Longyue Wang, Baotian Hu, Xinyu Chen, Wanqi Zhong, Chenyang Lyu, Min Zhang.*<br>
+arXiv 2023.11. [[PDF](https://arxiv.org/abs/2311.07536)]
+
 **ShareGPT4V: Improving Large Multi-Modal Models with Better Captions.**<br>
 *Lin Chen, Jisong Li, Xiaoyi Dong, Pan Zhang, Conghui He, Jiaqi Wang, Feng Zhao, Dahua Lin.*<br>
 arXiv 2023.11. [[PDF](http://arxiv.org/abs/2311.12793v1)]
